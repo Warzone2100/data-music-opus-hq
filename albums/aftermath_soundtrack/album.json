@@ -14,6 +14,14 @@
         "bpm": 80
       },
       {
+        "filename": "track3_enhanced.opus",
+        "title": "Track 3 - Enhanced",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 80
+      },
+      {
         "filename": "track17.opus",
         "title": "Nuclear Heartbeat",
         "author": "LupusMechanicus",
