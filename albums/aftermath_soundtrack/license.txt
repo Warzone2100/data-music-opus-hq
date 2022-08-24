@@ -1,3 +1,5 @@
+For all track *except* track3_enhanced:
+
 `Warzone 2100 - Aftermath Soundtrack` - Copyright (C) 2021-2022 LupusMechanicus
 
 'Warzone 2100 - Aftermath Soundtrack' is licensed and available under: 
@@ -5,6 +7,11 @@ CC-BY-SA-3.0 (or, at your discretion, any later version)
 
 Alternatively, 'Warzone 2100 - Aftermath Soundtrack' may be used & distributed under the terms of 
 the GNU General Public License Version 2 or later (the "GPL").
+
+---
+
+track3_enhanced is derived from Martin Severn's original albums/original_soundtrack/track3, 
+and is licensed under the terms of the GNU General Public License Version 2 or later (the "GPL").
 
 [EN]
 Attribution-ShareAlike 3.0
