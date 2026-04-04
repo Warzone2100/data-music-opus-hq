@@ -1,0 +1,89 @@
+{
+    "title": "Reclamation Soundtrack",
+    "author": "LupusMechanicus",
+    "date": "2025",
+    "description": "From the Community, To the Community! Created and released by LupusMechanicus.",
+    "album_cover_filename": "albumcover.png",
+    "tracks": [
+      {
+        "filename": "LM_Reclamation_01.opus",
+        "title": "Scavengers",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 80
+      },
+      {
+        "filename": "LM_Reclamation_02.opus",
+        "title": "Coup de Grace",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 120
+      },
+      {
+        "filename": "LM_Reclamation_03.opus",
+        "title": "Mechanization",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_04.opus",
+        "title": "Outgrowth",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_05.opus",
+        "title": "Eviction",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_06.opus",
+        "title": "Foundation",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 120
+      },
+      {
+        "filename": "LM_Reclamation_07.opus",
+        "title": "Reminiscence",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 80
+      },
+      {
+        "filename": "LM_Reclamation_08.opus",
+        "title": "Nordeast",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_09.opus",
+        "title": "Conviction",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
+      },
+      {
+        "filename": "LM_Reclamation_10.opus",
+        "title": "No Way Out",
+        "author": "LupusMechanicus",
+        "default_music_modes": ["challenge", "skirmish", "multiplayer"],
+        "base_volume": 100,
+        "bpm": 90
+      }
+    ]
+}
