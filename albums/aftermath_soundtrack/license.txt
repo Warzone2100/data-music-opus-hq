@@ -1,6 +1,7 @@
+
 For all track *except* track3_enhanced:
 
-`Warzone 2100 - Aftermath Soundtrack` - Copyright (C) 2021-2022 LupusMechanicus
+`Warzone 2100 - Aftermath Soundtrack` - Copyright (C) 2021-2026 Alexandru "LupusMechanicus" Trif
 
 'Warzone 2100 - Aftermath Soundtrack' is licensed and available under: 
 CC-BY-SA-3.0 (or, at your discretion, any later version)
